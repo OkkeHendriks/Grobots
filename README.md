@@ -11,7 +11,3 @@ https://groups.yahoo.com/neo/groups/grobots/info
 # Original authors
 * Devon Schudy (dschudy@yahoo.com) 
 * Warren Schudy (wschudy@wpi.edu)
-
-# Initial focus
-* In my opinion one of the first things to focus on is switching to a cross platform UI. 
-* Secondly either an editor for the stack language or an C/Python/Whatever -> Stack transpiler.
