@@ -11,3 +11,7 @@ https://groups.yahoo.com/neo/groups/grobots/info
 # Original authors
 * Devon Schudy (dschudy@yahoo.com) 
 * Warren Schudy (wschudy@wpi.edu)
+
+# Authors
+* Okke Hendriks (http://github.com/okkehendriks)
+* Mathijs de Langen (http://github.com/mathijsdelangen)
